@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikiPAUL
+- 👋 Hi, I’m @MikiPaul
 - 👀 I’m interested in Machine Learning/ Data science
 - 🌱 I’m currently learning M.Sc IT
 - 💞️ I’m looking to collaborate on Data Scientist
