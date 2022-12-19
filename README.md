@@ -1,8 +1,9 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Competitive Programmer and Mobile app developer
+- 🖥  Competitive Programmer and Mobile app developer
 - 🎓 Studying Masters of Information Technology at Anna University, class of 2020-25
 - 📖 Motivated self learner 
-
+-    Currently looking for internship in Software Engineering   
+-    Interested in 🦗 cricket, 🏈 football, ♟️chess
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikipaul-a-376210200/) 
