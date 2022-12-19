@@ -1,7 +1,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Competitive Programmer and Mobile app developer
 - 🎓 Studying Masters of Information Technology at Anna University, class of 2020-25
-- [<img src="https://commons.wikimedia.org/wiki/File:LeetCode_Logo_black_with_text.svg#/media/File:LeetCode_Logo_black_with_text.svg" height="30em" align="center" alt="LeetCode" title="Leetcode Logo"/>](https://archlinux.org/)
+-  <i class="fas fa-book"></i>
 
 
 ## 🌐 Socials:
