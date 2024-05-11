@@ -1,9 +1,9 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥  Backend developer and problem solver
-- 🏗️ Building social commerce paltform - Toxmo
+- 🏗️ Building a social commerce platform - Toxmo
 - 🎓 Studying Masters of Information Technology at Anna University
 - 📖 Motivated self learner 
--    Interested in 🦗 cricket, 🏈 football, ♟️chess
+- 🏈 Interested in 🏏 cricket, 🏈 football, ♟️chess
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikipaul-a-376210200) 
