@@ -1,8 +1,8 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥  Competitive Programmer and Mobile app developer
-- 🎓 Studying Masters of Information Technology at Anna University, class of 2020-25
+- 🖥  Backend developer and interested in problem solving
+- 🏗️ Building social commerce paltform - Toxmo
+- 🎓 Studying Masters of Information Technology at Anna University
 - 📖 Motivated self learner 
--    Currently looking for internship in Software Engineering   
 -    Interested in 🦗 cricket, 🏈 football, ♟️chess
 
 ## 🌐 Socials:
