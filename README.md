@@ -1,5 +1,5 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥  Backend developer and interested in problem solving
+- 🖥  Backend developer and problem solver
 - 🏗️ Building social commerce paltform - Toxmo
 - 🎓 Studying Masters of Information Technology at Anna University
 - 📖 Motivated self learner 
